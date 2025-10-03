@@ -38,3 +38,7 @@ TinDog is a simple, responsive website for finding dogs and connecting dog lover
 - **Features Section**: Highlights the benefits of using TinDog with fun icons and playful descriptions.
 - **Testimonial Section**: Showcases a dog lover's testimonial with an image and logos from trusted media partners.
 - **Pricing Section**: Provides three different subscription tiers: "Chihuahua," "Labrador," and "Mastiff," each with unique pricing and benefits.
+
+## License
+This project is created for educational purpose.
+
