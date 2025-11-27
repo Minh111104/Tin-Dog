@@ -1,4 +1,4 @@
-# TinDog Project
+# TinDog Project 🐕
 
 Refer to the PDF:
 https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
