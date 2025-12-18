@@ -41,4 +41,3 @@ TinDog is a simple, responsive website for finding dogs and connecting dog lover
 
 ## License
 This project is created for educational purpose.
-
